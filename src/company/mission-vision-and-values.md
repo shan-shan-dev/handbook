@@ -2,7 +2,7 @@
 
 ### Mission
 
-> Our mission is to bridge the gap in communication for the hospitality industries staff.
+> Our mission is to simplify and ease the work for the staff of any size of company related to the hospitality industry.
 
 ### Vision
 
