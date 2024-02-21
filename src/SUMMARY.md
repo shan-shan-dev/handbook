@@ -2,10 +2,6 @@
 
 * [📖 Shan-Shan Handbook](README.md)
 
-## For visitors <a href="#visitor" id="visitor"></a>
-
-* [👋 Welcome](visitor/welcome.md)
-
 ## The company <a href="#company" id="company"></a>
 
 * [❓ What is Shan-Shan?](company/what.md)
@@ -14,9 +10,29 @@
 
 ## For everyone <a href="#everyone" id="everyone"></a>
 
+* [👋 Welcome](everyone/welcome/README.md)
+  * [Code of Conduct](everyone/welcome/code-of-conduct.md)
+  * [Contribution Guide](everyone/welcome/contribution-guide.md)
+* [🎨 Brandbook](everyone/brandbook.md)
 * [📚 Glossary](everyone/glossary.md)
 
 ## For team <a href="#team" id="team"></a>
 
-* [🫂 Home](team/home.md)
-* [🛠 Tooling](team/tooling.md)
+* [Getting started](team/getting-started.md)
+* [🛠 Tooling](team/tooling/README.md)
+  * [For designers](team/tooling/for-designers.md)
+  * [For developers](team/tooling/for-developers.md)
+  * [For HR](team/tooling/for-hr.md)
+  * [For marketers](team/tooling/for-marketers.md)
+  * [For sales](team/tooling/for-sales.md)
+
+## Development <a href="#dev" id="dev"></a>
+
+* [Quick start](dev/quick-start.md)
+* [🤝 Code guidelines](dev/code-guidelines.md)
+* [🌳 Git flow](dev/git-flow.md)
+* [🩺 Maintenance](dev/maintenance.md)
+
+## Design
+
+* [Quick start](design/quick-start.md)
