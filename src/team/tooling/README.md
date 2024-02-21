@@ -89,7 +89,7 @@ This is planned. We will have it once we purchase a team plan.
 Temporarily we use [**Notion**](https://notion.so) for this purpose. We are still shaping our company.
 
 {% hint style="info" %}
-We plan to migrate to [**ClickUp**](https://clickup.com), but this is to be discussed - once we do a more thorough research for our needs.
+We plan to migrate to [**ClickUp**](https://clickup.com) or [**Linear**](https://linear.app), but this is to be discussed - once we do a more thorough research for our needs.
 {% endhint %}
 
 ***
