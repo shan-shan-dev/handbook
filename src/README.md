@@ -36,7 +36,7 @@ Well, if you did, I'm glad you asked!
 
 ### For everyone
 
-**If you're a visitor**, want to know more about us or need a reminder, you should head to a page dedicated [**for everyone**](./#for-everyone).
+**If you're a visitor**, want to know more about us or need a reminder, you should head to a page dedicated [**for everyone**](broken-reference).
 
 ***
 
