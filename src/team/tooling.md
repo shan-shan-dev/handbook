@@ -27,8 +27,8 @@ To be very clear. While [**true transparency**](../company/mission-vision-and-va
 
 ### Password management
 
-<picture><source srcset="../.gitbook/assets/proton-pass-logo-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/proton-pass-logo-dark.svg" alt="" data-size="line"></picture>\
-We’re using **ProtonPass** for convenient usage, sharing and security purposes.
+<picture><source srcset="../.gitbook/assets/proton-pass-logo-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/proton-pass-logo-light.svg" alt="" data-size="line"></picture>\
+We’re using [**ProtonPass**](https://proton.me/pass) for convenient usage, sharing and security purposes.
 
 {% hint style="info" %}
 Our **vault** name is **`Shan-Shan`**.
@@ -71,7 +71,7 @@ Invite URL to our Discord server
 ### File sharing
 
 <picture><source srcset="../.gitbook/assets/proton-drive-logo-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/proton-drive-logo-light.svg" alt="" data-size="line"></picture>\
-We use **ProtonDrive** for sharing and storing important files related to our organisation.
+We use [**ProtonDrive**](https://proton.me/drive) for sharing and storing important files related to our company internal work.
 
 {% hint style="warning" %}
 This is planned. We will have it once we purchase a team plan.
