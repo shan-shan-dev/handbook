@@ -1,0 +1,12 @@
+{
+	"scripts": {
+		"fix": "pnpm run \"/^fix:.*/\" ",
+		"fix:md": "markdownlint-cli2 \"**/*.md\" \"#**/node_modules\" --fix",
+		"lint": "pnpm run \"/^lint:.*/\" ",
+		"lint:md": "markdownlint-cli2 \"**/*.md\" \"#**/node_modules\" "
+	},
+	"optionalDependencies": {
+		"@terminal-nerds/markdownlint-config": "0.14.0",
+		"markdownlint-cli2": "0.12.1"
+	}
+}

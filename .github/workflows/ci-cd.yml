@@ -30,6 +30,44 @@ permissions:
     pull-requests: read
 
 jobs:
+    changed_files:
+        name: Get changed files
+        runs-on: macos-14
+        timeout-minutes: 1
+        outputs:
+            files: ${{ steps.files.outputs.all_changed_files }}
+            has_js: ${{ steps.json.outputs.has_js }}
+            has_json: ${{ steps.json.outputs.has_json }}
+            has_md: ${{ steps.md.outputs.has_md }}
+            has_mdx: ${{ steps.mdx.outputs.has_mdx }}
+        steps:
+            # https://github.com/actions/checkout
+            - uses: actions/checkout@v4
+              # https://github.com/tj-actions/changed-files
+            - uses: tj-actions/changed-files@v42.0.4
+              id: files
+              with:
+                  escape_json: false
+                  json: true
+            - name: Set output 'has_js'
+              id: js
+              run: echo "has_js=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".js"))')" >> "$GITHUB_OUTPUT"
+            - name: Set output 'has_json'
+              id: json
+              run: echo "has_json=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".json"))')" >> "$GITHUB_OUTPUT"
+            - name: Set output 'has_md'
+              id: md
+              run: echo "has_md=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".md"))')" >> "$GITHUB_OUTPUT"
+            - name: Set output 'has_mdx'
+              id: mdx
+              run: echo "has_mdx=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".mdx"))')" >> "$GITHUB_OUTPUT"
+
+    lint_markdownlint:
+        name: Lint
+        uses: shan-shan-dev/.github/.github/workflows/markdownlint.yml@main
+        needs: [changed_files]
+        if: needs.changed_files.outputs.has_md
+
     lint_typos:
         name: Lint
         uses: shan-shan-dev/.github/.github/workflows/typos.yml@main
