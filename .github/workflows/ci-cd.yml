@@ -37,9 +37,12 @@ jobs:
         outputs:
             files: ${{ steps.files.outputs.all_changed_files }}
             has_js: ${{ steps.json.outputs.has_js }}
+            has_jsx: ${{ steps.jsxon.outputs.has_jsx }}
             has_json: ${{ steps.json.outputs.has_json }}
             has_md: ${{ steps.md.outputs.has_md }}
             has_mdx: ${{ steps.mdx.outputs.has_mdx }}
+            has_ts: ${{ steps.tson.outputs.has_ts }}
+            has_tsx: ${{ steps.tsxon.outputs.has_tsx }}
         steps:
             # https://github.com/actions/checkout
             - uses: actions/checkout@v4
@@ -52,6 +55,9 @@ jobs:
             - name: Set output 'has_js'
               id: js
               run: echo "has_js=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".js"))')" >> "$GITHUB_OUTPUT"
+            - name: Set output 'has_jsx'
+              id: jsx
+              run: echo "has_jsx=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".jsx"))')" >> "$GITHUB_OUTPUT"
             - name: Set output 'has_json'
               id: json
               run: echo "has_json=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".json"))')" >> "$GITHUB_OUTPUT"
@@ -61,12 +67,24 @@ jobs:
             - name: Set output 'has_mdx'
               id: mdx
               run: echo "has_mdx=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".mdx"))')" >> "$GITHUB_OUTPUT"
+            - name: Set output 'has_ts'
+              id: ts
+              run: echo "has_ts=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".ts"))')" >> "$GITHUB_OUTPUT"
+            - name: Set output 'has_tsx'
+              id: tsx
+              run: echo "has_tsx=$(echo '${{ steps.files.outputs.all_changed_files }}' | jq 'any(. | endswith(".tsx"))')" >> "$GITHUB_OUTPUT"
 
     lint_markdownlint:
         name: Lint
         uses: shan-shan-dev/.github/.github/workflows/markdownlint.yml@main
         needs: [changed_files]
         if: needs.changed_files.outputs.has_md
+
+    lint_biome:
+        name: Lint
+        uses: shan-shan-dev/.github/.github/workflows/biome.yml@main
+        needs: [changed_files]
+        if: needs.changed_files.outputs.has_js || needs.changed_files.outputs.has_json || needs.changed_files.outputs.has_ts || needs.changed_files.outputs.has_tsx
 
     lint_typos:
         name: Lint
