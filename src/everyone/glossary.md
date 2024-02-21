@@ -1,7 +1,7 @@
 ---
 description: >-
-  This a collection of possibly uncommon terms or acronyms which may be used
-  within this organisation. Everything there is in alphabetical order.
+  This a collection of possibly uncommon terms, or abbreviations which may be
+  used within this organisation.
 cover: >-
   https://images.unsplash.com/photo-1521587760476-6c12a4b040da?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxsaWJyYXJ5fGVufDB8fHx8MTcwODUyMzU5NXww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -29,7 +29,13 @@ layout:
 
 Abbreviation for [**accessibility**](https://en.wikipedia.org/wiki/Accessibility). Number `11` is a count of characters between `a` and `y`. It refers to the inclusive practice of removing barriers that prevent interaction with, or access to websites, by people with disabilities.
 
+</details>
 
+<details>
+
+<summary>API</summary>
+
+Abbreviation for [**A**pplication **P**rogramming **I**nterface](https://en.wikipedia.org/wiki/API) - a set of protocols and tools for building application software and enabling interaction between different software intermediaries.
 
 </details>
 
