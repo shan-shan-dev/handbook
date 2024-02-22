@@ -73,6 +73,14 @@ Abbreviation for [**localization**](https://en.wikipedia.org/wiki/Internationali
 
 <details>
 
+<summary>Lint</summary>
+
+The process of running a program that will statically analyse code for potential errors and stylistic _(formatting)_ issues.
+
+</details>
+
+<details>
+
 <summary>PoC</summary>
 
 Abbreviation for [**P**roof **o**f **C**oncept](https://en.wikipedia.org/wiki/Proof\_of\_concept) - a demonstration that a certain concept or theory is feasible.
@@ -95,3 +103,18 @@ Abbreviation for [**S**oftware **a**s a Service](https://en.wikipedia.org/wiki/S
 
 </details>
 
+<details>
+
+<summary>UI</summary>
+
+Abbreviation for [**U**ser **I**nterface](https://en.wikipedia.org/wiki/User\_interface) - the space where interactions between humans and machines occur, involving the design of screens, pages, and visual elements.
+
+</details>
+
+<details>
+
+<summary>UX</summary>
+
+Abbreviation for [**U**ser **E**xperience](https://en.wikipedia.org/wiki/User\_experience) - the overall experience of a person using a product, especially in terms of how easy or pleasing it is to use.
+
+</details>
