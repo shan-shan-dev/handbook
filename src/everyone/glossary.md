@@ -81,6 +81,14 @@ The process of running a program that will statically analyse code for potential
 
 <details>
 
+<summary>OSS</summary>
+
+Abbreviation for [**O**pen **S**ource **S**oftware](https://en.wikipedia.org/wiki/Open-source\_software) - software for which the original source code is made freely available and may be redistributed and modified.
+
+</details>
+
+<details>
+
 <summary>PoC</summary>
 
 Abbreviation for [**P**roof **o**f **C**oncept](https://en.wikipedia.org/wiki/Proof\_of\_concept) - a demonstration that a certain concept or theory is feasible.

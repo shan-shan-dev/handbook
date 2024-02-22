@@ -13,7 +13,6 @@
 * [👋 Welcome](everyone/welcome/README.md)
   * [Code of Conduct](everyone/welcome/code-of-conduct.md)
   * [Contribution Guide](everyone/welcome/contribution-guide.md)
-* [🎨 Brandbook](everyone/brandbook.md)
 * [📚 Glossary](everyone/glossary.md)
 
 ## For team <a href="#team" id="team"></a>
@@ -26,13 +25,14 @@
   * [For marketers](team/tooling/for-marketers.md)
   * [For sales](team/tooling/for-sales.md)
 
+## Design
+
+* [Quick start](design/quick-start.md)
+* [🎨 Brandbook](design/brandbook.md)
+
 ## Development <a href="#dev" id="dev"></a>
 
 * [Quick start](dev/quick-start.md)
 * [🤝 Code guidelines](dev/code-guidelines.md)
 * [🌳 Git flow](dev/git-flow.md)
 * [🩺 Maintenance](dev/maintenance.md)
-
-## Design
-
-* [Quick start](design/quick-start.md)
