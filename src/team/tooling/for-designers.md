@@ -15,7 +15,8 @@ Invite URL to our Figma team
 {% endembed %}
 
 {% hint style="danger" %}
-Due to expensive pricing, we will switch to [**Penpot**](https://penpot.app), once it's supported by Storybook. Also, because we want to support open-source.
+Due to expensive pricing, we will switch to [**Penpot**](https://penpot.app), once there's integration with Storybook.\
+Also, because we want to support open-source.
 {% endhint %}
 
 ***
