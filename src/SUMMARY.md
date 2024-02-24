@@ -18,7 +18,7 @@
 ## For team <a href="#team" id="team"></a>
 
 * [Getting started](team/getting-started.md)
-* [🛠 Tooling](team/tooling/README.md)
+* [🛠️ Tooling](team/tooling/README.md)
   * [For designers](team/tooling/for-designers.md)
   * [For developers](team/tooling/for-developers.md)
   * [For HR](team/tooling/for-hr.md)
@@ -28,7 +28,8 @@
 ## Design
 
 * [Quick start](design/quick-start.md)
-* [🎨 Brandbook](design/brandbook.md)
+* [🎨 Brandbook](design/brandbook/README.md)
+  * [🧹 Broom](design/brandbook/broom.md)
 
 ## Development <a href="#dev" id="dev"></a>
 
