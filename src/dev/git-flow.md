@@ -1,2 +1,2 @@
-# 🌳 Git flow
+# Git flow
 

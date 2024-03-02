@@ -1,4 +1,4 @@
-# 🎨 Brandbook
+# Brandbook
 
 ### Logo
 

@@ -4,7 +4,7 @@ description: >-
   products.
 ---
 
-# 🩺 Maintenance
+# Maintenance
 
 ### Projects dependencies
 

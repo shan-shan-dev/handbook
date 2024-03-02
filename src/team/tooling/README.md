@@ -23,14 +23,14 @@ layout:
 
 # 🛠️ Tooling
 
-We are committed to carefully pick our tooling to align with our company [values](../../company/foundations.md#values). **We aim to use only** [**OSS**](../../everyone/glossary.md#oss) **tools**. We hope that will shape a path for possible collaboration, contribution to existing issues and forth on, or even sponsorship once we're financially sustainable.
+We are committed to carefully pick our tooling to align with our company [values](../../company/foundations/#values). **We aim to use only** [**OSS**](../../everyone/glossary.md#oss) **tools**. We hope that will shape a path for possible collaboration, contribution to existing issues and forth on, or even sponsorship once we're financially sustainable.
 
 {% hint style="info" %}
 If you spot any incorrectness here or find out that something is no longer open-source, Please let us know. Even better if you know of any alternative!
 {% endhint %}
 
 {% hint style="warning" %}
-To be very clear. While [**true transparency**](../../company/foundations.md#true-transparency-and-honesty) is one our our core values, some of those tools are access-restricted for privacy and security purposes.
+To be very clear. While [**true transparency**](../../company/foundations/#true-transparency-and-honesty) is one our our core values, some of those tools are access-restricted for privacy and security purposes.
 {% endhint %}
 
 ***

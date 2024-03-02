@@ -20,7 +20,7 @@ We use [**Git**](https://git-scm.com/) software for tracking the changes in any 
 ### Development Platform
 
 <picture><source srcset="../../.gitbook/assets/github-logo-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/github-logo-light.svg" alt="" data-size="line"></picture>\
-We use [**GitHub**](https://github.com/) as a main hosting service for our code repositories. It also aligns with one of our core values - [Trust and Amplify](../../company/foundations.md#trust-and-amplify) - we are open-source company.
+We use [**GitHub**](https://github.com/) as a main hosting service for our code repositories. It also aligns with one of our core values - [Trust and Amplify](../../company/foundations/#trust-and-amplify) - we are open-source company.
 
 {% @github-files/github-code-block url="https://github.com/shan-shan-dev" %}
 

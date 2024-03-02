@@ -5,8 +5,22 @@
 ## The company <a href="#company" id="company"></a>
 
 * [❓ What is Shan-Shan?](company/what.md)
-* [🌳 Foundations](company/foundations.md)
-* [✨ Our products](company/our-products.md)
+* [🌳 Foundations](company/foundations/README.md)
+  * [Our Mission](company/foundations/mission.md)
+  * [Our Vision](company/foundations/vision.md)
+  * [Our Values](company/foundations/values/README.md)
+    * [Trust and amplify](company/foundations/values/trust-and-amplify.md)
+    * [Demonstrating integrity](company/foundations/values/demonstrating-integrity.md)
+    * [True transparency](company/foundations/values/true-transparency.md)
+    * [Honesty](company/foundations/values/honesty.md)
+    * [Empathy](company/foundations/values/empathy.md)
+    * [Inclusiveness](company/foundations/values/inclusiveness.md)
+    * [Rigorousness](company/foundations/values/rigorousness.md)
+    * [Accountability](company/foundations/values/accountability.md)
+    * [Sustainability](company/foundations/values/sustainability.md)
+    * [Striving for work-life balance](company/foundations/values/striving-for-work-life-balance.md)
+* [✨ Our Innovations](company/our-innovations/README.md)
+  * [Broom](company/our-innovations/broom.md)
 
 ## 👋 For everyone <a href="#everyone" id="everyone"></a>
 

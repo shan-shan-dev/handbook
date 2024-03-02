@@ -1,2 +1,2 @@
-# 🤝 Code guidelines
+# Code guidelines
 
