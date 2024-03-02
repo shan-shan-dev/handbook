@@ -40,7 +40,7 @@ So, **whenever you have questions or need a bit of guidance, just flip open this
 
 ### "Who the heck are you?" <a href="#who-the-heck-are-we" id="who-the-heck-are-we"></a>
 
-This is another question you might ask i**f you're a visitor**. Hence why you should head to [**The Company**](broken-reference) section immediately.
+This is another question you might ask **if you're a visitor**. Hence why you should head to [**The Company**](broken-reference) section immediately.
 
 However, even if you're a team member, it's good to have a reminder for ourselves about [**who we are**](company/what.md), [**what our foundations are**](company/foundations.md), or [**what we're doing**](company/our-products.md).
 

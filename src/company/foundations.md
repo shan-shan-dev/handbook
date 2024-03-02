@@ -1,6 +1,12 @@
 ---
 description: Organisational goals that are embraced at all levels.
+cover: >-
+  https://images.unsplash.com/photo-1547401372-0ac4589c4d3e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxyb290c3xlbnwwfHx8fDE3MDkzNjc3NzF8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -13,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 🌟 Foundations
+# 🌳 Foundations
 
 ### Preamble
 
@@ -103,7 +109,7 @@ When things go sideways or we have doubts or concerns, we are honest about them.
 
 **We strive to ensure the longevity of our company** by operating in a capital-efficient manner. Whenever possible, we prioritise long-term decisions over short-term gains. In the long run, we consider critical aspects such as employee well-being, regulatory compliance, environmental stewardship, or economic viability.
 
-#### 1️⃣0️⃣**Striving for work-life balance**
+#### 1️⃣0️⃣**Striving for work-life balance** <a href="#striving-for-work-life-balance" id="striving-for-work-life-balance"></a>
 
 **We are a remote and async company.** We preserve this work setup, and we acknowledge that it is not for everyone and challenging to maintain.\
 While we're at it, we want to build a workspace culture where we focus on health and mental well-being by inviting the team to retreat once in a while to recharge batteries and decompress. We want to preserve a holistic approach for each team member's needs and give them a chance to take care of what matters most to them.
