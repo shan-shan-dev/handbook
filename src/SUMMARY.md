@@ -5,7 +5,7 @@
 ## The company <a href="#company" id="company"></a>
 
 * [❓ What is Shan-Shan?](company/what.md)
-* [🌟 Mission, Vision and Values](company/mission-vision-and-values.md)
+* [🌟 Foundations](company/foundations.md)
 * [✨ Our products](company/our-products.md)
 
 ## For everyone <a href="#everyone" id="everyone"></a>

@@ -12,12 +12,12 @@ We are **Remote and Async** company _(a software house to be more precise)_ whic
 
 #### Remote and Async
 
-**This work model is one of our** [**core values**](mission-vision-and-values.md#remote-and-async).\
+**This work model is one of our** [**core values**](foundations.md#remote-and-async).\
 Kicksresume.com has made a great [blog post](https://blog.kickresume.com/async-work/) to explain more in depth about it.
 
 #### What we do?
 
-We are very proud to develop and bring our SaaS products to work on our [mission](mission-vision-and-values.md#mission) and fulfil [vision](mission-vision-and-values.md#vision).
+We are very proud to develop and bring our SaaS products to work on our [mission](foundations.md#mission) and fulfil [vision](foundations.md#vision).
 
 ### What's up with the name?
 
