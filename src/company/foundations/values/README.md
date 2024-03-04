@@ -13,6 +13,14 @@
 
 It unites all of the other values we believe in:
 
+{% hint style="danger" %}
+**Important!**
+
+As we're in the early stages of our company, **it's very likely that those company values will change over time**.
+
+We will do periodic inner workshops to ensure that they're still valid, on point, and up-to-date.
+{% endhint %}
+
 [trust-and-amplify.md](trust-and-amplify.md "mention")
 
 [demonstrating-integrity.md](demonstrating-integrity.md "mention")

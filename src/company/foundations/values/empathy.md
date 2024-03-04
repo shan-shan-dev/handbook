@@ -12,4 +12,4 @@ We remember that anyone could make a mistake, even the best or most experienced 
 >
 > **Barbara Kingsolver**
 
-That means we support each other when something goes wrong; skip the negativity, approach every case with understanding, and encourage moving forward.
+That means we support each other when something goes wrong; skip the negativity, approach every case with understanding, compassion, and encourage moving forward.
