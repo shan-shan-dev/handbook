@@ -41,7 +41,7 @@ We will do periodic inner workshops to ensure that they're still valid, on point
 
 [striving-for-work-life-balance.md](striving-for-work-life-balance.md "mention")
 
-It also means that while we are small by design, **we are staying humble at heart**.
+We believe that for continuous development, we also have to **stay humble at heart**.
 
 We are able to self-reflect and preserve a **growth mindset**, which involves ongoing self-improvement, skill enhancement, and knowledge acquisition throughout the entire career in our company.
 
