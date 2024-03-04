@@ -113,15 +113,18 @@ This tool is open-sourced - [link](https://github.com/ProtonDriveApps/).
 
 ### Project management
 
-<img src="../../.gitbook/assets/notion-logo.svg" alt="" data-size="line">\
-Temporarily we use [**Notion**](https://notion.so) for this purpose. We are still in the process of shaping our company.
+<picture><source srcset="https://clickup.com/images/brand-assets/logo-dark-transparent.svg" media="(prefers-color-scheme: dark)"><img src="https://clickup.com/images/brand-assets/logo-color-transparent.svg" alt="" data-size="line"></picture>\
+We temporarily chose **ClickUp** as our core project management tool. It has the features that satisfies our basic needs. And most importantly, the integrations with the tools we use _(for every scope)_.
 
-{% hint style="info" %}
-We plan to migrate to [**Github Projects**](https://github.com/features) or [**ClickUp**](https://clickup.com) or [**Linear**](https://linear.app), but this is to be discussed - once we do a more thorough research for our needs.
+{% hint style="warning" %}
+**We're still working on setting up our workspace.**
+
+Once we're have the reasonable setup for spaces and list, and without leaking private & confidential data, we will share them to public eye.\
+**Please stay patient.** :pray:
 {% endhint %}
 
-{% hint style="success" %}
-🌟 This tool is open-sourced [here](https://github.com/makenotion).
+{% hint style="danger" %}
+💔 This tool is **NOT** open-sourced.
 {% endhint %}
 
 ***
